@@ -23,4 +23,22 @@ All ratings are contained in the file `ratings.csv`. (0.5 stars - 5.0 stars).
 
 Movie information is contained in the file `movies.csv`. 
 
+## Data Cleaning and Preparation
+Tools and Libraries:
+   .pandas
+   .numpy
+   .matplotlib
+   .seaborn
+   .sickit learn
+   .surprise
+   .jupyter notebook
+
+   1.Handling missing values: There were no missing values.
+   2.Checking for duplicated values: there were no duplicates.
+   3.Handling outliers: they were left as they were.
+   4.Merging Datasets: Relevant datasets were merged based on common keys to create a unified dataset for analysis.
+
+   ## Data visualisation
+   
+   
 
