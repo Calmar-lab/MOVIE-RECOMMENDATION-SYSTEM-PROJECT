@@ -1,4 +1,4 @@
-(![readmeimage2](https://github.com/user-attachments/assets/b94b2ab2-7764-4364-b92d-6d96d4830f6d))
+![lenscoverphoto](https://github.com/user-attachments/assets/6c53423e-8f2a-464a-9143-041203b4f9f7)
 # MOVIE-RECOMMENDATION-SYSTEM-PROJECT
 ## Authors:
 1.Calmar Isoe
