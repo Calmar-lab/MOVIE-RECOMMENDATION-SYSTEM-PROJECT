@@ -18,7 +18,9 @@ The MovieLens Recommendation System project aims to develop a recommendation sys
 ## Data Understanding
 The dataset used in this project is sourced from the GroupLens Research team, titled "MovieLens Latest Small Dataset." It is a CSV-based dataset containing user ratings, movie information, and additional features relevant for building a recommendation system. You can access it here: [MovieLens Dataset](https://grouplens.org/datasets/movielens/latest/).
 The data are contained in the files `links.csv`, `movies.csv`, `ratings.csv` and `tags.csv`.
+
 All ratings are contained in the file `ratings.csv`. (0.5 stars - 5.0 stars).
+
 Movie information is contained in the file `movies.csv`. 
 
 
