@@ -1,4 +1,4 @@
-![images](https://github.com/user-attachments/assets/e5a94c75-f06e-4313-a3d3-f8570e563bb7)
+![istockphoto-1494642262-612x612](https://github.com/user-attachments/assets/e4e0073c-e6a0-416d-ac8a-974d6bcc98f6)
 # MOVIE-RECOMMENDATION-SYSTEM-PROJECT
 ## Authors:
 1.Calmar Isoe
