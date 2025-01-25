@@ -1,4 +1,5 @@
-![Description of Image](https://images.app.goo.gl/8dviKo4xrRLkGHnYA)
+![Description of Image](![readme image](https://github.com/user-attachments/assets/c2b54c9d-c710-41f5-98e5-d36345412b93)
+)
 # MOVIE-RECOMMENDATION-SYSTEM-PROJECT
 ## Authors:
 1.Calmar Isoe
