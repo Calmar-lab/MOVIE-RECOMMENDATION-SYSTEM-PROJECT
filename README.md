@@ -107,21 +107,24 @@ Tools and Libraries:
    ## Key Findings
    The following insights were derived from the MovieLens Recommendation System project:
 
-   1.High Predictive Accuracy: The collaborative filtering model achieved an RMSE of 0.876, indicating accurate prediction of user ratings for unseen movies.
-
-   2.Top Recommendations: For User 1, the system recommended the top 5 movies: [871, 660, 586, 896, 4673]. These recommendations were tailored based on the user's past preferences.
-
-   3.The optimal parameters for the collaborative filtering model were identified as:
-      n_factors = 10
-      n_epochs = 20
-      lr_all = 0.005
-      reg_all = 0.02
-      These settings significantly improved the model's performance.
-      
-   4.Popular Genres: Analysis of the genres for the recommended movies revealed a preference for genres such as Drama, Comedy, and Action, reflecting common user interests.
+   	Majority of the artings cluster around 3 and 4: The distribution of ratings shows that most users tend to rate movies with a score of 3 or 4. With this insight, stakeholders can 
+      focus on movies that consistently receive ratings above 4 for promotional efforts and personalized recommendations.
    
-   5.Cold Start Problem: The system handled the cold start problem effectively by integrating a hybrid approach that uses movie metadata, such as genres, alongside collaborative 
-    filtering.
+   	Certain genres dominate user preferences: Popular genres such as Drama, Comedy, and Action receive the highest number of ratings, showing they align with audience interests. 
+      Therefore, these genres can be prioritized in marketing campaigns, and content acquisition can focus on similar genres to boost engagement.
+   
+   	Highly active users provide more stable ratings: Analysis showed that users with higher activity levels tend to rate movies more consistently, whereas less active users show 
+      greater variability. With this insight, stakeholders can consider loyal and active users segmentation for premium recommendation services or loyalty rewards.
+
+   	Fluctuating trends in ratings over the years: The number of ratings fluctuates over time, with notable increases during specific years, possibly due to platform growth or popular 
+      movie releases. Understanding peak activity periods can help the stakeholders plan marketing campaigns or feature releases during high-engagement times.
+
+   	Most-rated movies vs. highest-rated movies differ: Some of the most frequently rated movies don't necessarily have the highest average ratings, indicating that popularity does not 
+      always align with quality. Stakeholders should differentiate between "popular" and "high-quality" movies when curating recommendations for users.
+
+   	Variation in ratings across different genres: Some genres, such as Documentary and Film-Noir, tend to receive higher average ratings but have fewer overall ratings compared to 
+      mainstream genres. Promoting niche genres with high satisfaction rates can attract dedicated audiences and differentiate content offerings.
+
 
 ## Recommendations 
 Based on our findings, we suggest the following strategies:
