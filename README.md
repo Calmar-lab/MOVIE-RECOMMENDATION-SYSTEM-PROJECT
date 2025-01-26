@@ -8,7 +8,7 @@ The project files can be found in the repository's file directory:
 
 - **Datasets** – Available in the `links.csv`, `movies.csv`, `ratings.csv`, and `tags.csv` folders.
 - **Data Report** – Located in the `Data Report.pdf` folder.
-- **Non-Technical Presentation** – Found in the `Non-Technical Presentation` folder.
+- **Non-Technical Presentation** – Found in the `Non-Technical Presentation.pptx` folder.
 - **Jupyter Notebook** – Available in the repository's main directory as `MOVIE_RECOMMENDATION_SYSTEM_PROJECT.ipynb`.
 
 
