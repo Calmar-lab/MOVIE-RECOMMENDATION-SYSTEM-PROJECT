@@ -72,16 +72,16 @@ Movie information is contained in the file `movies.csv`.
 
 
    ![pic6](https://github.com/user-attachments/assets/a3b41fc0-d795-499b-9db1-0c38a838ba8d)
-   visualize the ratings trends over time to investigate how ratings have changed over the years.
+   Visualized the ratings trends over time to investigate how ratings have changed over the years.
 
 
    ![pic7](https://github.com/user-attachments/assets/90fbdb05-52d0-476b-8555-9e73a5a36997)
-   check if highly active users tend to rate movies differently compared to less active users.
+   Checked if highly active users tend to rate movies differently compared to less active users.
 
 
    ![pic8](https://github.com/user-attachments/assets/7db7fa85-d7f8-4348-80b4-bb45a7f17b0e)
    ![pic9](https://github.com/user-attachments/assets/e4750bad-0063-4614-a45a-c59ad56e7e16)
-   investigated new users or movies with very few ratings, which could impact the effectiveness of recommendations.
+   Investigated new users or movies with very few ratings, which could impact the effectiveness of recommendations.
 
 
    ![pic10](https://github.com/user-attachments/assets/0269f703-0232-4a0f-afaf-1234908cb335)
