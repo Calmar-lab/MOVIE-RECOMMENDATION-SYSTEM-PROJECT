@@ -1,15 +1,15 @@
 ![istockphoto-1494642262-612x612](https://github.com/user-attachments/assets/e4e0073c-e6a0-416d-ac8a-974d6bcc98f6)
 # MOVIE-RECOMMENDATION-SYSTEM-PROJECT
 ## Authors:
-1.Calmar Isoe
+1. Calmar Isoe
 
-2.Daniel Karue
+2. Daniel Karue
 
-3.Vernesser Pamelah
+3. Vernesser Pamelah
 
-4.Precious Kalia
+4. Precious Kalia
 
-5.Sharleen Liz
+5. Sharleen Liz
 
 
 ## PROJECT OVERVIEW
@@ -67,7 +67,7 @@ Movie information is contained in the file `movies.csv`.
 
    ![pic4](https://github.com/user-attachments/assets/11985307-a33e-409f-b67e-7e17d6f31f49)
    ![pic5](https://github.com/user-attachments/assets/f1b66f5e-14e8-41b1-a17b-e9fd0590856b)
-   Identify movies with the highest average ratings and those with the most ratings to determine popular movies. We'll also see whether the results here will be consistent with the 
+   Identified movies with the highest average ratings and those with the most ratings to determine popular movies. We'll also see whether the results here will be consistent with the 
    analysis of genre popularity
 
 
